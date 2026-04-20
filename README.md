@@ -3,38 +3,57 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Riteshkatre">
-    <img src="https://images.weserv.nl/?url=https://github.com/Riteshkatre.png?v=4&w=200&h=200&fit=cover&mask=circle&maxage=7d" alt="Ritesh Katre" />
-  </a>
+  <img src="https://images.weserv.nl/?url=https://github.com/Riteshkatre.png?v=4&w=400&h=400&fit=cover&mask=circle&bg=transparent" width="160" alt="Ritesh Katre" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Android+Developer;2.8+Years+of+Experience;Kotlin+%7C+Java+%7C+Dart;Flutter+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Android+Developer;2.8+Years+of+Experience;Kotlin+%7C+Java+%7C+Dart;Jetpack+Compose+%7C+MVVM" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ritesh-katre-232777202/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:Katrelucky810@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ritesh-katre-232777202"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:katrelucky810@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Call-6265784954-4CAF50?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
 ---
 
-### 💻 About Me
+### 💻 Professional Summary
 
-- 📱 **Android Specialist:** 2.8 years of expertise building scalable mobile apps.
-- 🚀 **Tech Explorer:** Proficient in **Java & Kotlin**, currently mastering **Flutter**.
-- 🛠️ **Real-World Impact:** Experienced in API integration, MVVM architecture, and local databases.
-- 🎯 **Mission:** Seeking opportunities in product-based companies to solve complex problems with clean code.
+- 📱 **Android Developer** with **2.8 years** of experience  building high-performance mobile applications using **Kotlin, Java, and MVVM**.
+- 📍 **Current Location:** Ahmedabad, Gujarat.
+- 🏠 **Native/Base:** Balaghat, Madhya Pradesh.
+- 🛠️ **Impact:** Reduced app crash rates by **20%** and automated release efforts by **30%** via CI/CD pipelines.
+- 🎓 **Education:** B.Tech in Computer Science (2019-2023).
 
 ---
 
-### 🛠️ My Tech Stack
+### 🚀 Featured Play Store Projects
 
-| Category | Tech / Tools |
+#### 🏢 [Myco - HRMS App](https://play.google.com/store/apps/details?id=com.mycompany.fhpl&hl=en_IN)
+*Comprehensive HRMS platform covering recruitment to retirement workflows.*
+- **Key Features:** Implemented **Geo-fencing**, task management, and sales tracking.
+- **Tech Stack:** Kotlin, MVVM, Room Database, and Google Maps API.
+
+#### 🧺 [Oterri Laundry App](https://play.google.com/store/apps/details?id=com.mksoterrivendor.app&hl=en_US)
+*Vendor application for real-time order management.*
+- **Key Features:** Integrated **Agora SDK** for in-app calling and real-time order tracking.
+- **Impact:** Improved UI/UX leading to significantly higher customer satisfaction.
+
+#### 🏏 Cricket Booking App
+- **Description:** Seamless ground scheduling and booking management system.
+- **Tech Stack:** Java, SQLite, and offline storage solutions.
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+| Category | Skills |
 | :--- | :--- |
-| **Languages** | <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white" /> |
-| **Frameworks** | <img src="https://img.shields.io/badge/Android%20SDK-3DDC84?style=flat&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white" /> |
-| **Backend/DB** | <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" /> |
+| **Languages** | **Kotlin, Java**, Dart, Python (Basic), C++ |
+| **Modern Android** | **Jetpack Compose**, Coroutines, Hilt/Dagger, Retrofit  |
+| **Architecture** | **MVVM**, Clean Code, Multithreading |
+| **Tools/Services** | Firebase, Git, Jenkins (CI/CD), RESTful APIs |
 
 ---
 
@@ -47,7 +66,7 @@
 ---
 
 ### ⚡ Fun Fact
-> *"I don't just write code; I build solutions that bridge the gap between complex problems and seamless user experiences."* 🚀
+> "I build apps that solve real-world problems and code that remains maintainable and scalable".
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0077B5&height=30&section=footer" />
